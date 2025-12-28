@@ -1,5 +1,3 @@
-# transactionsync
-
 # TransactionSync
 
 A personal finance budgeting tool for tracking household spending against monthly budgets.
